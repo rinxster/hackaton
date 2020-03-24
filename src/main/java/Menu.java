@@ -25,7 +25,7 @@ public void runMenu(){
 public String getInput(){
       String choice ="";
       Scanner kb = new Scanner(System.in);
-      choice = kb.nextLine();
+      public choice = kb.nextLine();
 
       switch (choice){
           case "1":
